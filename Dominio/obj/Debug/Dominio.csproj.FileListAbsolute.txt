@@ -1,0 +1,62 @@
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Dominio\bin\Debug\Dominio.dll
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Dominio\bin\Debug\Datos.dll
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Dominio\bin\Debug\Datos.pdb
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Dominio\obj\Debug\Dominio.dll
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Dominio\bin\Debug\Comun.dll
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Dominio\bin\Debug\Comun.pdb
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Dominio\bin\Debug\Dominio.dll
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Dominio\bin\Debug\Comun.dll
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Dominio\bin\Debug\Datos.dll
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Dominio\bin\Debug\Comun.pdb
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Dominio\bin\Debug\Datos.pdb
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Dominio\obj\Debug\Dominio.dll
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Dominio\bin\Debug\Dominio.dll
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Dominio\bin\Debug\Comun.dll
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Dominio\bin\Debug\Datos.dll
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Dominio\bin\Debug\LiveCharts.dll
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Dominio\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Dominio\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Dominio\bin\Debug\Comun.pdb
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Dominio\bin\Debug\Datos.pdb
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Dominio\bin\Debug\LiveCharts.pdb
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Dominio\bin\Debug\LiveCharts.xml
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Dominio\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Dominio\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Dominio\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Dominio\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Dominio\obj\Debug\Dominio.dll
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Dominio\bin\Debug\Dominio.dll
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Dominio\bin\Debug\Comun.dll
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Dominio\bin\Debug\Datos.dll
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Dominio\bin\Debug\LiveCharts.dll
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Dominio\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Dominio\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Dominio\bin\Debug\Comun.pdb
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Dominio\bin\Debug\Datos.pdb
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Dominio\bin\Debug\LiveCharts.pdb
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Dominio\bin\Debug\LiveCharts.xml
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Dominio\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Dominio\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Dominio\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Dominio\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Dominio\obj\Debug\Dominio.dll
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Dominio\obj\Debug\Dominio.pdb

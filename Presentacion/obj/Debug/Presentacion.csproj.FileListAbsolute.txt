@@ -1,0 +1,108 @@
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Presentacion\bin\Debug\Dominio.dll
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Presentacion\obj\Debug\Presentacion.frmRegistro.resources
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Presentacion\bin\Debug\Datos.dll
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Presentacion\obj\Debug\MenuPrincipal.frmInicio.resources
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Presentacion\obj\Debug\MenuPrincipal.frmMenu.resources
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Presentacion\bin\Debug\Comun.dll
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Presentacion\bin\Debug\Comun.pdb
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Presentacion\obj\Debug\Presentacion.frmEmpleados.resources
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Presentacion\bin\Debug\Comun.dll
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Presentacion\bin\Debug\Datos.dll
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Presentacion\bin\Debug\Dominio.dll
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Presentacion\bin\Debug\Comun.pdb
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Presentacion\obj\Debug\Presentacion.frmAsistencia.resources
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Presentacion\obj\Debug\Presentacion.frmEmpleados.resources
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Presentacion\obj\Debug\Presentacion.frmEmployeeInput.resources
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Presentacion\obj\Debug\MenuPrincipal.frmInicio.resources
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Presentacion\obj\Debug\MenuPrincipal.frmMenu.resources
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Presentacion\obj\Debug\Presentacion.frmRegistro.resources
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\bin\Debug\Comun.dll
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\bin\Debug\Datos.dll
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\bin\Debug\Dominio.dll
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\bin\Debug\Comun.pdb
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\obj\Debug\Presentacion.frmAsistencia.resources
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\obj\Debug\Presentacion.frmEmpleados.resources
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\obj\Debug\Presentacion.frmEmployeeInput.resources
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\obj\Debug\MenuPrincipal.frmInicio.resources
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\obj\Debug\MenuPrincipal.frmMenu.resources
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\obj\Debug\Presentacion.frmRegistro.resources
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\bin\Debug\LiveCharts.dll
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\bin\Debug\LiveCharts.pdb
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\bin\Debug\LiveCharts.xml
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Presentacion\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\bin\Debug\Comun.dll
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\bin\Debug\Datos.dll
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\bin\Debug\Dominio.dll
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\bin\Debug\LiveCharts.dll
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\bin\Debug\Comun.pdb
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\bin\Debug\LiveCharts.pdb
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\bin\Debug\LiveCharts.xml
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\obj\Debug\Presentacion.frmAsistencia.resources
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\obj\Debug\Presentacion.frmEmpleados.resources
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\obj\Debug\Presentacion.frmEmployeeInput.resources
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\obj\Debug\MenuPrincipal.frmInicio.resources
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\obj\Debug\Presentacion.frmLogin.resources
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\obj\Debug\MenuPrincipal.frmMenu.resources
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\obj\Debug\Presentacion.frmRegistro.resources
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete

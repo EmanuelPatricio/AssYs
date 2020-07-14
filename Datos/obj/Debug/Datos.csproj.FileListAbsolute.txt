@@ -1,0 +1,54 @@
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Datos\bin\Debug\Datos.dll
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Datos\bin\Debug\Datos.pdb
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Datos\obj\Debug\Datos.dll
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Datos\obj\Debug\Datos.pdb
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Datos\bin\Debug\Comun.dll
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Datos\bin\Debug\Comun.pdb
+C:\Users\Emanuel\source\repos\Sistema de Asistencia\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Datos\bin\Debug\Datos.dll
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Datos\bin\Debug\Datos.pdb
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Datos\bin\Debug\Comun.dll
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Datos\bin\Debug\Comun.pdb
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Datos\obj\Debug\Datos.dll
+C:\Users\Joans\Documents\GitHub\Sistema-de-Asistencia\Datos\obj\Debug\Datos.pdb
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Datos\bin\Debug\Datos.dll
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Datos\bin\Debug\Datos.pdb
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Datos\bin\Debug\Comun.dll
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Datos\bin\Debug\LiveCharts.dll
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Datos\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Datos\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Datos\bin\Debug\Comun.pdb
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Datos\bin\Debug\LiveCharts.pdb
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Datos\bin\Debug\LiveCharts.xml
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Datos\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Datos\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Datos\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Datos\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Datos\obj\Debug\Datos.dll
+C:\Users\Joans\Documents\GitHub\SistAsistencia\Datos\obj\Debug\Datos.pdb
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Datos\bin\Debug\Datos.dll
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Datos\bin\Debug\Datos.pdb
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Datos\bin\Debug\Comun.dll
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Datos\bin\Debug\LiveCharts.dll
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Datos\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Datos\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Datos\bin\Debug\Comun.pdb
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Datos\bin\Debug\LiveCharts.pdb
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Datos\bin\Debug\LiveCharts.xml
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Datos\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Datos\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Datos\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Datos\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Datos\obj\Debug\Datos.dll
+C:\Users\Emanuel\Desktop\SistAsistencia-master\Datos\obj\Debug\Datos.pdb
