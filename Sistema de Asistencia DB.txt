@@ -1,0 +1,261 @@
+/****** Object:  Database [ProyectoProgramacion1]    Script Date: 7/12/2020 10:30:06 PM ******/
+CREATE DATABASE [ProyectoProgramacion1]  (EDITION = 'Standard', SERVICE_OBJECTIVE = 'S0', MAXSIZE = 250 GB) WITH CATALOG_COLLATION = SQL_Latin1_General_CP1_CI_AS;
+GO
+ALTER DATABASE [ProyectoProgramacion1] SET COMPATIBILITY_LEVEL = 150
+GO
+ALTER DATABASE [ProyectoProgramacion1] SET ANSI_NULL_DEFAULT OFF 
+GO
+ALTER DATABASE [ProyectoProgramacion1] SET ANSI_NULLS OFF 
+GO
+ALTER DATABASE [ProyectoProgramacion1] SET ANSI_PADDING OFF 
+GO
+ALTER DATABASE [ProyectoProgramacion1] SET ANSI_WARNINGS OFF 
+GO
+ALTER DATABASE [ProyectoProgramacion1] SET ARITHABORT OFF 
+GO
+ALTER DATABASE [ProyectoProgramacion1] SET AUTO_SHRINK OFF 
+GO
+ALTER DATABASE [ProyectoProgramacion1] SET AUTO_UPDATE_STATISTICS ON 
+GO
+ALTER DATABASE [ProyectoProgramacion1] SET CURSOR_CLOSE_ON_COMMIT OFF 
+GO
+ALTER DATABASE [ProyectoProgramacion1] SET CONCAT_NULL_YIELDS_NULL OFF 
+GO
+ALTER DATABASE [ProyectoProgramacion1] SET NUMERIC_ROUNDABORT OFF 
+GO
+ALTER DATABASE [ProyectoProgramacion1] SET QUOTED_IDENTIFIER OFF 
+GO
+ALTER DATABASE [ProyectoProgramacion1] SET RECURSIVE_TRIGGERS OFF 
+GO
+ALTER DATABASE [ProyectoProgramacion1] SET AUTO_UPDATE_STATISTICS_ASYNC OFF 
+GO
+ALTER DATABASE [ProyectoProgramacion1] SET ALLOW_SNAPSHOT_ISOLATION ON 
+GO
+ALTER DATABASE [ProyectoProgramacion1] SET PARAMETERIZATION SIMPLE 
+GO
+ALTER DATABASE [ProyectoProgramacion1] SET READ_COMMITTED_SNAPSHOT ON 
+GO
+ALTER DATABASE [ProyectoProgramacion1] SET  MULTI_USER 
+GO
+ALTER DATABASE [ProyectoProgramacion1] SET ENCRYPTION ON
+GO
+ALTER DATABASE [ProyectoProgramacion1] SET QUERY_STORE = ON
+GO
+ALTER DATABASE [ProyectoProgramacion1] SET QUERY_STORE (OPERATION_MODE = READ_WRITE, CLEANUP_POLICY = (STALE_QUERY_THRESHOLD_DAYS = 30), DATA_FLUSH_INTERVAL_SECONDS = 900, INTERVAL_LENGTH_MINUTES = 60, MAX_STORAGE_SIZE_MB = 100, QUERY_CAPTURE_MODE = AUTO, SIZE_BASED_CLEANUP_MODE = AUTO, MAX_PLANS_PER_QUERY = 200, WAIT_STATS_CAPTURE_MODE = ON)
+GO
+/****** Object:  Table [dbo].[employees]    Script Date: 7/12/2020 10:30:06 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[employees](
+	[id] [int] IDENTITY(1,1) NOT NULL,
+	[employee_no] [int] NULL,
+	[name] [varchar](240) NULL,
+	[email] [varchar](240) NULL,
+	[birthday] [date] NULL,
+	[position] [varchar](240) NULL
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[entries]    Script Date: 7/12/2020 10:30:06 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[entries](
+	[entry] [datetime] NULL,
+	[employee_id] [int] NULL
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[positions]    Script Date: 7/12/2020 10:30:06 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[positions](
+	[id_position] [int] IDENTITY(1,1) NOT NULL,
+	[position] [varchar](120) NULL,
+	[entrytime] [time](7) NULL
+) ON [PRIMARY]
+GO
+
+insert into positions VALUES
+('', '8:00:00'),
+('Administrador', '9:00:00'),
+('Gerente', '9:00:00'),
+('Tesorero', '8:00:00'),
+('Auditor', '8:00:00'),
+('Ingeniero', '8:00:00'),
+('Técnico', '8:00:00')
+GO
+/****** Object:  Table [dbo].[users]    Script Date: 7/12/2020 10:30:06 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[users](
+	[id] [int] IDENTITY(1,1) NOT NULL,
+	[user] [varchar](240) NULL,
+	[pass] [varchar](240) NULL,
+	[name] [varchar](240) NULL
+) ON [PRIMARY]
+GO
+/****** Object:  StoredProcedure [dbo].[assist]    Script Date: 7/12/2020 10:30:06 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+create procedure [dbo].[assist]
+@date date
+as
+select CONVERT(VARCHAR(10), a.[entry], 111) as [Date], convert(datetime2(0) , a.[entry]) [Hora de entrada] from entries a
+join employees b on a.employee_id = b.employee_no
+GO
+/****** Object:  StoredProcedure [dbo].[asssistList]    Script Date: 7/12/2020 10:30:06 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE procedure [dbo].[asssistList] 
+@date datetime
+,@days int
+as  
+IF @days = 1
+begin
+select CONVERT(VARCHAR(10), a.[entry], 111) as Fecha, convert(char(5), a.[entry], 108) [Entrada], b.name as Nombre, c.position as Posicion,  convert(char(5), c.entrytime, 108)  as [Deberia entrar] from entries a
+join employees b on a.employee_id = b.employee_no
+join positions c on b.position = c.id_position
+where CONVERT(VARCHAR(10), a.[entry], 111) = CONVERT(VARCHAR(10), @date, 111)
+end
+
+IF @days = 7
+begin 
+select CONVERT(VARCHAR(10), a.[entry], 111) as [Fecha], convert(char(5), a.[entry], 108) [Entrada], b.name as Nombre, c.position as Posicion,  convert(char(5), c.entrytime, 108)  as [Deberia entrar] from entries a
+join employees b on a.employee_id = b.employee_no
+join positions c on b.position = c.id_position
+where a.[entry] BETWEEN DATEADD(day, -7, @date) AND DATEADD(second, -1, DATEADD(day, 1, @date))
+end 
+
+IF @days = 14
+begin 
+select CONVERT(VARCHAR(10), a.[entry], 111) as [Fecha], convert(char(5), a.[entry], 108) [Entrada], b.name as Nombre, c.position as Posicion,  convert(char(5), c.entrytime, 108)  as [Deberia entrar] from entries a
+join employees b on a.employee_id = b.employee_no
+join positions c on b.position = c.id_position
+where a.[entry] BETWEEN DATEADD(day, -14, @date) AND DATEADD(second, -1, DATEADD(day, 1, @date))
+end
+GO
+/****** Object:  StoredProcedure [dbo].[deleteEmployee]    Script Date: 7/12/2020 10:30:06 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+create procedure [dbo].[deleteEmployee] 
+@id int
+as 
+delete from employees where id = @id
+GO
+/****** Object:  StoredProcedure [dbo].[editEmployee]    Script Date: 7/12/2020 10:30:06 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+create procedure [dbo].[editEmployee] 
+@name varchar(240), @employee_no int, @email varchar(240), @birthday varchar(240), @position int, @id int
+as 
+update employees set name = @name, employee_no = @employee_no, email = @email, birthday = @birthday, position = @position where id = @id
+GO
+/****** Object:  StoredProcedure [dbo].[employeeList]    Script Date: 7/12/2020 10:30:06 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE procedure [dbo].[employeeList] 
+as 
+select id as ID, employee_no as 'No. Institucional', name as Nombre, email as Email, birthday as Birthday, b.position as Posicion from employees a
+join positions b on b.id_position = a.position
+GO
+/****** Object:  StoredProcedure [dbo].[entryProc]    Script Date: 7/12/2020 10:30:06 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+create procedure [dbo].[entryProc] 
+@time varchar(240), @employee_no int
+as 
+insert into entries values(@time, @employee_no)
+GO
+/****** Object:  StoredProcedure [dbo].[getFirstEmployee]    Script Date: 7/12/2020 10:30:06 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE procedure [dbo].[getFirstEmployee]
+as 
+select top(1) a.name, c.position, convert(char(5), b.[entry], 108)  from employees a
+join entries b on a.employee_no = b.employee_id
+join positions c on a.position = c.id_position
+where CONVERT(VARCHAR(10), b.[entry], 111) = CONVERT(VARCHAR(10), getDate(), 111)
+order by b.entry desc
+GO
+/****** Object:  StoredProcedure [dbo].[getLastEmployee]    Script Date: 7/12/2020 10:30:06 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+create procedure [dbo].[getLastEmployee]
+as 
+select top(1) a.name, c.position, convert(char(5), b.[entry], 108)  from employees a
+join entries b on a.employee_no = b.employee_id
+join positions c on a.position = c.id_position
+where CONVERT(VARCHAR(10), b.[entry], 111) = CONVERT(VARCHAR(10), getDate(), 111)
+order by b.entry asc
+GO
+/****** Object:  StoredProcedure [dbo].[initGauge]    Script Date: 7/12/2020 10:30:06 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE procedure [dbo].[initGauge] 
+as 
+select count(*) as [To],
+(select count(distinct employee_id) from entries where CONVERT(VARCHAR(10), [entry], 111) = CONVERT(VARCHAR(10), getDate(), 111)) as [Value]
+from employees
+GO
+/****** Object:  StoredProcedure [dbo].[insertEmployee]    Script Date: 7/12/2020 10:30:06 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE procedure [dbo].[insertEmployee] 
+@name varchar(240), @employee_no int, @email varchar(240), @birthday varchar(240), @position int
+as 
+insert into employees values(@employee_no, @name, @email, @birthday, @position)
+GO
+/****** Object:  StoredProcedure [dbo].[listPositions]    Script Date: 7/12/2020 10:30:06 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE procedure [dbo].[listPositions] 
+as 
+select * from positions
+GO
+/****** Object:  StoredProcedure [dbo].[todayAssist]    Script Date: 7/12/2020 10:30:06 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE procedure [dbo].[todayAssist]
+as
+select CONVERT(VARCHAR(10), a.[entry], 111) as [Date], convert(char(5), a.[entry], 108) [Hora de entrada], b.name as Nombre, c.position as Posicion,  convert(char(5), c.entrytime, 108)  as [Deberia entrar] from entries a
+join employees b on a.employee_id = b.employee_no
+join positions c on b.position = c.id_position
+where CONVERT(VARCHAR(10), a.[entry], 111) = CONVERT(VARCHAR(10), GETDATE(), 111)
+GO
+ALTER DATABASE [ProyectoProgramacion1] SET  READ_WRITE 
+GO
+
+
+insert into users values ('admin', 'admin', 'Administrador')
